@@ -1,52 +1,51 @@
 Br_ID,Total,Count,Sales_Tar,Name
-1,3453500.0,136,3791040.0,1200 St Clair 
-2,4690000.0,189,4963200.0,Avenue Rd & Fairlawn 
-3,6390000.0,264,7075200.0,Bathurst & Frontenac 
-4,2446500.0,104,3199680.0,Bay & College 
-5,3600000.0,133,3759360.0,Bedford & Bloor 
-6,7587500.0,296,7444800.0,Bloor & Bay (Manulife Centre) 
-7,4662000.0,183,4540800.0,Bloor & Church 
-8,4764000.0,192,4656960.0,Bloor & Euclid 
-9,6092000.0,243,5406720.0,Bloor & Lansdowne 
-10,5934500.0,242,5406720.0,Bloor & Windermere 
-11,6477500.0,247,6325440.0,Bridlewood Mall Branch 
-12,4659000.0,191,4076160.0,Centerpoint Mall 
-13,5990500.0,241,5565120.0,Church & Alexander 
-14,4736500.0,173,4688640.0,Cityplace 
-15,7875000.0,311,10158720.0,College & Manning 
-16,4968500.0,190,4498560.0,Danforth & Ferrier 
-17,3988000.0,160,3791040.0,Danforth & Woodbine 
-18,6763500.0,271,7106880.0,Dufferin Mall 
-19,6796000.0,271,8764800.0,Dundas & Keele 
-20,7872000.0,297,9092160.0,Dundas & Ossington 
-21,3988000.0,155,4245120.0,Dundas & Spadina (New Chinatown) 
-22,5439000.0,214,6737280.0,Dupont & Symington 
-23,3718500.0,146,4646400.0,East Liberty& Hanna 
-24,6759500.0,265,6219840.0,East York Town Centre 
-25,1523500.0,60,1520640.0,Eglinton & Elmsthorpe 
-26,8547500.0,343,8543040.0,Fairbank 
-27,7131500.0,289,7782720.0,First Canadian Place Branch - Main Floor 
-28,4162500.0,159,5174400.0,Forest Hill Village 
-29,4464500.0,164,5016000.0,Front & Berkeley 
-30,4002000.0,175,4709760.0,King & Church 
-31,2421500.0,104,3136320.0,King & University 
-32,4508500.0,172,4065600.0,Laird & Commercial 
-33,5964500.0,232,6293760.0,Lawrence Allen Centre 
-34,4805000.0,191,4561920.0,Leaside 
-35,4877500.0,199,4287360.0,Leslie & York Mills 
-36,1486500.0,61,1721280.0,McCowan Square 
-37,3040000.0,116,2925120.0,Queen & Portland 
-38,5956500.0,236,7318080.0,Queen & Saulter 
-39,5469000.0,214,5406720.0,Queen & Yonge 
-40,5717000.0,222,6230400.0,Rogers Road 
-41,4657000.0,182,4857600.0,Stackt Market Bathurst And Front 
-42,3657000.0,150,3653760.0,St.Clair & Runnymede 
-43,7487000.0,287,7328640.0,Steeles & Markham 
-44,3420000.0,132,4213440.0,The Beach 
-45,2939000.0,124,2925120.0,University & College 
-46,6825000.0,260,6642240.0,University & Dundas 
-47,5713000.0,233,6462720.0,Yonge & Fairlawn 
-48,3683000.0,143,4646400.0,Yonge & Gerrard 
-49,3890500.0,165,4519680.0,Yonge & Roselawn 
-50,3319000.0,136,4012800.0,Yonge & St Clair 
-51,3220000.0,137,4097280.0,York University/York Lanes 
+1,60500.0,3,3791040.0,1200 St Clair 
+2,72000.0,4,4963200.0,Avenue Rd & Fairlawn 
+3,124500.0,6,7075200.0,Bathurst & Frontenac 
+4,95000.0,5,3199680.0,Bay & College 
+5,160000.0,5,3759360.0,Bedford & Bloor 
+6,192000.0,9,7444800.0,Bloor & Bay (Manulife Centre) 
+7,237000.0,8,4540800.0,Bloor & Church 
+8,44000.0,2,4656960.0,Bloor & Euclid 
+9,149000.0,5,5406720.0,Bloor & Lansdowne 
+10,278000.0,9,5406720.0,Bloor & Windermere 
+11,191500.0,9,6325440.0,Bridlewood Mall Branch 
+12,156500.0,6,4076160.0,Centerpoint Mall 
+13,191500.0,6,5565120.0,Church & Alexander 
+14,80000.0,2,4688640.0,Cityplace 
+15,193000.0,6,10158720.0,College & Manning 
+16,126000.0,4,4498560.0,Danforth & Ferrier 
+17,69000.0,2,3791040.0,Danforth & Woodbine 
+18,174000.0,8,7106880.0,Dufferin Mall 
+19,234000.0,9,8764800.0,Dundas & Keele 
+20,212500.0,8,9092160.0,Dundas & Ossington 
+21,79000.0,3,4245120.0,Dundas & Spadina (New Chinatown) 
+22,43000.0,1,6737280.0,Dupont & Symington 
+23,70500.0,3,4646400.0,East Liberty& Hanna 
+24,248000.0,8,6219840.0,East York Town Centre 
+25,13500.0,1,1520640.0,Eglinton & Elmsthorpe 
+26,130000.0,7,8543040.0,Fairbank 
+27,355000.0,14,7782720.0,First Canadian Place Branch - Main Floor 
+28,81000.0,4,5174400.0,Forest Hill Village 
+29,71000.0,4,5016000.0,Front & Berkeley 
+30,81500.0,5,4709760.0,King & Church 
+31,51500.0,3,3136320.0,King & University 
+32,76500.0,4,4065600.0,Laird & Commercial 
+33,77000.0,5,6293760.0,Lawrence Allen Centre 
+34,115500.0,4,4561920.0,Leaside 
+35,66500.0,2,4287360.0,Leslie & York Mills 
+36,71000.0,2,1721280.0,McCowan Square 
+37,214500.0,7,2925120.0,Queen & Portland 
+38,204000.0,5,7318080.0,Queen & Saulter 
+39,206000.0,9,5406720.0,Queen & Yonge 
+40,130000.0,5,6230400.0,Rogers Road 
+41,129500.0,5,4857600.0,Stackt Market Bathurst And Front 
+43,212000.0,7,7328640.0,Steeles & Markham 
+44,150500.0,5,4213440.0,The Beach 
+45,26500.0,2,2925120.0,University & College 
+46,116000.0,5,6642240.0,University & Dundas 
+47,115500.0,4,6462720.0,Yonge & Fairlawn 
+48,28000.0,1,4646400.0,Yonge & Gerrard 
+49,147500.0,5,4519680.0,Yonge & Roselawn 
+50,64500.0,3,4012800.0,Yonge & St Clair 
+51,66500.0,4,4097280.0,York University/York Lanes 
