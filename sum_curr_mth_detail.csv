@@ -1,199 +1,226 @@
 Br_ID,Name,Cat,Prod,Total,Count
-1,1200 St Clair ,Category 2,G,35000.0,2
-1,1200 St Clair ,Category 3,J,25500.0,1
-2,Avenue Rd & Fairlawn ,Category 1,A,64000.0,3
-2,Avenue Rd & Fairlawn ,Category 1,C,8000.0,1
-3,Bathurst & Frontenac ,Category 1,A,32500.0,1
-3,Bathurst & Frontenac ,Category 2,G,46500.0,2
-3,Bathurst & Frontenac ,Category 3,I,39500.0,2
-3,Bathurst & Frontenac ,Category 3,J,6000.0,1
-4,Bay & College ,Category 1,B,41500.0,1
-4,Bay & College ,Category 1,D,12000.0,1
-4,Bay & College ,Category 2,F,14500.0,1
-4,Bay & College ,Category 2,G,7000.0,1
-4,Bay & College ,Category 3,I,20000.0,1
-5,Bedford & Bloor ,Category 1,C,27000.0,1
-5,Bedford & Bloor ,Category 2,E,37500.0,1
-5,Bedford & Bloor ,Category 2,F,40500.0,1
-5,Bedford & Bloor ,Category 2,G,16000.0,1
-5,Bedford & Bloor ,Category 3,J,39000.0,1
-6,Bloor & Bay (Manulife Centre) ,Category 1,A,56500.0,2
-6,Bloor & Bay (Manulife Centre) ,Category 1,D,500.0,1
-6,Bloor & Bay (Manulife Centre) ,Category 2,E,34500.0,1
-6,Bloor & Bay (Manulife Centre) ,Category 3,H,4000.0,2
-6,Bloor & Bay (Manulife Centre) ,Category 3,I,58500.0,2
-6,Bloor & Bay (Manulife Centre) ,Category 3,J,38000.0,1
-7,Bloor & Church ,Category 1,A,66000.0,2
-7,Bloor & Church ,Category 1,D,44000.0,1
-7,Bloor & Church ,Category 2,E,35500.0,1
-7,Bloor & Church ,Category 2,F,7000.0,1
-7,Bloor & Church ,Category 3,I,57500.0,2
-7,Bloor & Church ,Category 3,J,27000.0,1
-8,Bloor & Euclid ,Category 1,B,44000.0,2
-9,Bloor & Lansdowne ,Category 1,B,34500.0,1
-9,Bloor & Lansdowne ,Category 1,C,29500.0,1
-9,Bloor & Lansdowne ,Category 3,H,23500.0,1
-9,Bloor & Lansdowne ,Category 3,I,25000.0,1
-9,Bloor & Lansdowne ,Category 3,J,36500.0,1
-10,Bloor & Windermere ,Category 1,D,92000.0,2
-10,Bloor & Windermere ,Category 2,E,44500.0,1
-10,Bloor & Windermere ,Category 2,F,49500.0,1
-10,Bloor & Windermere ,Category 2,G,32000.0,2
-10,Bloor & Windermere ,Category 3,H,11500.0,1
-10,Bloor & Windermere ,Category 3,I,48000.0,1
-10,Bloor & Windermere ,Category 3,J,500.0,1
-11,Bridlewood Mall Branch ,Category 1,B,29000.0,1
-11,Bridlewood Mall Branch ,Category 1,C,61500.0,2
-11,Bridlewood Mall Branch ,Category 1,D,17000.0,1
-11,Bridlewood Mall Branch ,Category 2,G,6500.0,2
-11,Bridlewood Mall Branch ,Category 3,H,18500.0,1
-11,Bridlewood Mall Branch ,Category 3,I,28000.0,1
-11,Bridlewood Mall Branch ,Category 3,J,31000.0,1
-12,Centerpoint Mall ,Category 1,C,29500.0,1
-12,Centerpoint Mall ,Category 1,D,18500.0,1
-12,Centerpoint Mall ,Category 2,E,29500.0,1
-12,Centerpoint Mall ,Category 2,G,26000.0,1
-12,Centerpoint Mall ,Category 3,I,44500.0,1
-12,Centerpoint Mall ,Category 3,J,8500.0,1
-13,Church & Alexander ,Category 1,B,13000.0,1
-13,Church & Alexander ,Category 1,D,67000.0,2
-13,Church & Alexander ,Category 2,E,21500.0,1
-13,Church & Alexander ,Category 3,J,90000.0,2
-14,Cityplace ,Category 3,H,43000.0,1
-14,Cityplace ,Category 3,I,37000.0,1
-15,College & Manning ,Category 1,A,39000.0,1
-15,College & Manning ,Category 1,D,32500.0,1
-15,College & Manning ,Category 2,F,29000.0,1
-15,College & Manning ,Category 2,G,29000.0,1
-15,College & Manning ,Category 3,H,36500.0,1
-15,College & Manning ,Category 3,J,27000.0,1
-16,Danforth & Ferrier ,Category 1,A,14000.0,1
-16,Danforth & Ferrier ,Category 1,D,45500.0,1
-16,Danforth & Ferrier ,Category 2,E,66500.0,2
-17,Danforth & Woodbine ,Category 1,C,25000.0,1
-17,Danforth & Woodbine ,Category 2,E,44000.0,1
-18,Dufferin Mall ,Category 1,D,61500.0,3
-18,Dufferin Mall ,Category 2,F,24500.0,1
-18,Dufferin Mall ,Category 3,H,40500.0,1
-18,Dufferin Mall ,Category 3,I,37500.0,1
-18,Dufferin Mall ,Category 3,J,10000.0,2
-19,Dundas & Keele ,Category 1,A,31500.0,1
-19,Dundas & Keele ,Category 1,B,30000.0,2
-19,Dundas & Keele ,Category 1,C,34500.0,1
-19,Dundas & Keele ,Category 1,D,1000.0,1
-19,Dundas & Keele ,Category 2,F,83000.0,2
-19,Dundas & Keele ,Category 3,J,54000.0,2
-20,Dundas & Ossington ,Category 1,A,58000.0,2
-20,Dundas & Ossington ,Category 1,B,3000.0,1
-20,Dundas & Ossington ,Category 1,D,49000.0,1
-20,Dundas & Ossington ,Category 2,F,42000.0,1
-20,Dundas & Ossington ,Category 2,G,16500.0,1
-20,Dundas & Ossington ,Category 3,I,44000.0,2
-21,Dundas & Spadina (New Chinatown) ,Category 1,D,46500.0,1
-21,Dundas & Spadina (New Chinatown) ,Category 2,F,22500.0,1
-21,Dundas & Spadina (New Chinatown) ,Category 3,J,10000.0,1
-22,Dupont & Symington ,Category 1,A,43000.0,1
-23,East Liberty& Hanna ,Category 2,G,4000.0,1
-23,East Liberty& Hanna ,Category 3,I,66500.0,2
-24,East York Town Centre ,Category 1,C,29500.0,1
-24,East York Town Centre ,Category 2,E,43000.0,1
-24,East York Town Centre ,Category 2,F,10000.0,1
-24,East York Town Centre ,Category 3,I,14000.0,1
-24,East York Town Centre ,Category 3,J,151500.0,4
-25,Eglinton & Elmsthorpe ,Category 2,E,13500.0,1
-26,Fairbank ,Category 1,A,19500.0,1
-26,Fairbank ,Category 1,D,3500.0,1
-26,Fairbank ,Category 2,E,54500.0,3
-26,Fairbank ,Category 2,F,25500.0,1
-26,Fairbank ,Category 3,H,27000.0,1
-27,First Canadian Place Branch - Main Floor ,Category 1,C,48000.0,2
-27,First Canadian Place Branch - Main Floor ,Category 1,D,74500.0,3
-27,First Canadian Place Branch - Main Floor ,Category 2,E,28000.0,2
-27,First Canadian Place Branch - Main Floor ,Category 2,F,29000.0,1
-27,First Canadian Place Branch - Main Floor ,Category 2,G,65500.0,2
-27,First Canadian Place Branch - Main Floor ,Category 3,H,20000.0,1
-27,First Canadian Place Branch - Main Floor ,Category 3,I,30000.0,1
-27,First Canadian Place Branch - Main Floor ,Category 3,J,60000.0,2
-28,Forest Hill Village ,Category 1,D,3000.0,1
-28,Forest Hill Village ,Category 2,E,13500.0,1
-28,Forest Hill Village ,Category 3,H,35000.0,1
-28,Forest Hill Village ,Category 3,I,29500.0,1
-29,Front & Berkeley ,Category 1,B,44000.0,2
-29,Front & Berkeley ,Category 3,H,21500.0,1
-29,Front & Berkeley ,Category 3,J,5500.0,1
-30,King & Church ,Category 1,B,5000.0,1
-30,King & Church ,Category 1,C,1000.0,1
-30,King & Church ,Category 1,D,29000.0,1
-30,King & Church ,Category 3,H,33500.0,1
-30,King & Church ,Category 3,I,13000.0,1
-31,King & University ,Category 1,C,9000.0,1
-31,King & University ,Category 3,I,41500.0,1
-31,King & University ,Category 3,J,1000.0,1
-32,Laird & Commercial ,Category 2,G,52000.0,2
-32,Laird & Commercial ,Category 3,H,5500.0,1
-32,Laird & Commercial ,Category 3,I,19000.0,1
-33,Lawrence Allen Centre ,Category 1,A,8000.0,1
-33,Lawrence Allen Centre ,Category 2,E,29500.0,1
-33,Lawrence Allen Centre ,Category 2,F,5500.0,1
-33,Lawrence Allen Centre ,Category 2,G,6000.0,1
-33,Lawrence Allen Centre ,Category 3,H,28000.0,1
-34,Leaside ,Category 2,G,41500.0,2
-34,Leaside ,Category 3,J,74000.0,2
-35,Leslie & York Mills ,Category 3,H,34000.0,1
-35,Leslie & York Mills ,Category 3,I,32500.0,1
-36,McCowan Square ,Category 2,G,33500.0,1
-36,McCowan Square ,Category 3,H,37500.0,1
-37,Queen & Portland ,Category 1,D,78000.0,2
-37,Queen & Portland ,Category 2,F,49000.0,1
-37,Queen & Portland ,Category 3,H,39500.0,2
-37,Queen & Portland ,Category 3,J,48000.0,2
-38,Queen & Saulter ,Category 1,B,48000.0,1
-38,Queen & Saulter ,Category 1,D,77000.0,2
-38,Queen & Saulter ,Category 3,I,34000.0,1
-38,Queen & Saulter ,Category 3,J,45000.0,1
-39,Queen & Yonge ,Category 1,B,40500.0,1
-39,Queen & Yonge ,Category 1,C,30500.0,1
-39,Queen & Yonge ,Category 2,E,10500.0,1
-39,Queen & Yonge ,Category 2,F,9000.0,1
-39,Queen & Yonge ,Category 2,G,35500.0,2
-39,Queen & Yonge ,Category 3,H,62000.0,2
-39,Queen & Yonge ,Category 3,I,18000.0,1
-40,Rogers Road ,Category 1,A,7500.0,1
-40,Rogers Road ,Category 1,B,24500.0,1
-40,Rogers Road ,Category 1,D,62000.0,2
-40,Rogers Road ,Category 3,I,36000.0,1
-41,Stackt Market Bathurst And Front ,Category 1,A,25000.0,1
-41,Stackt Market Bathurst And Front ,Category 1,B,17500.0,1
-41,Stackt Market Bathurst And Front ,Category 1,D,45500.0,1
-41,Stackt Market Bathurst And Front ,Category 3,H,27000.0,1
-41,Stackt Market Bathurst And Front ,Category 3,I,14500.0,1
-43,Steeles & Markham ,Category 1,B,92000.0,2
-43,Steeles & Markham ,Category 1,C,49500.0,2
-43,Steeles & Markham ,Category 1,D,68000.0,2
-43,Steeles & Markham ,Category 2,E,2500.0,1
-44,The Beach ,Category 1,B,37500.0,1
-44,The Beach ,Category 1,C,31500.0,1
-44,The Beach ,Category 1,D,48000.0,1
-44,The Beach ,Category 3,I,21500.0,1
-44,The Beach ,Category 3,J,12000.0,1
-45,University & College ,Category 1,A,7500.0,1
-45,University & College ,Category 1,D,19000.0,1
-46,University & Dundas ,Category 1,C,28000.0,1
-46,University & Dundas ,Category 2,E,44500.0,1
-46,University & Dundas ,Category 3,H,18000.0,1
-46,University & Dundas ,Category 3,J,25500.0,2
-47,Yonge & Fairlawn ,Category 1,A,35500.0,1
-47,Yonge & Fairlawn ,Category 1,C,49500.0,2
-47,Yonge & Fairlawn ,Category 2,F,30500.0,1
-48,Yonge & Gerrard ,Category 3,H,28000.0,1
-49,Yonge & Roselawn ,Category 1,B,17500.0,1
-49,Yonge & Roselawn ,Category 1,D,33500.0,1
-49,Yonge & Roselawn ,Category 2,G,55500.0,2
-49,Yonge & Roselawn ,Category 3,J,41000.0,1
-50,Yonge & St Clair ,Category 2,F,19000.0,1
-50,Yonge & St Clair ,Category 3,I,15500.0,1
-50,Yonge & St Clair ,Category 3,J,30000.0,1
-51,York University/York Lanes ,Category 1,A,22500.0,1
-51,York University/York Lanes ,Category 1,B,4500.0,1
-51,York University/York Lanes ,Category 2,G,26500.0,1
-51,York University/York Lanes ,Category 3,I,13000.0,1
+1,1200 St Clair ,Credit Card,Revolving Loan,35000.0,2
+1,1200 St Clair ,Investment,ELI,25500.0,1
+1,1200 St Clair ,Personal Loan,Revolving Loan,35000.0,2
+2,Avenue Rd & Fairlawn ,Credit Card,Card Installment Loan,8000.0,1
+2,Avenue Rd & Fairlawn ,Credit Card,Cash Advance,64000.0,3
+3,Bathurst & Frontenac ,Credit Card,Cash Advance,32500.0,1
+3,Bathurst & Frontenac ,Credit Card,Revolving Loan,46500.0,2
+3,Bathurst & Frontenac ,Investment,ELI,6000.0,1
+3,Bathurst & Frontenac ,Investment,UT,39500.0,2
+3,Bathurst & Frontenac ,Personal Loan,Revolving Loan,46500.0,2
+4,Bay & College ,Credit Card,Balance Transfer,41500.0,1
+4,Bay & College ,Credit Card,Revolving Loan,19000.0,2
+4,Bay & College ,Investment,UT,20000.0,1
+4,Bay & College ,Personal Loan,Revolving Loan,19000.0,2
+4,Bay & College ,Personal Loan,Secured Loan,14500.0,1
+5,Bedford & Bloor ,Credit Card,Card Installment Loan,27000.0,1
+5,Bedford & Bloor ,Credit Card,Revolving Loan,16000.0,1
+5,Bedford & Bloor ,Investment,ELI,39000.0,1
+5,Bedford & Bloor ,Personal Loan,Revolving Loan,16000.0,1
+5,Bedford & Bloor ,Personal Loan,Secured Loan,40500.0,1
+5,Bedford & Bloor ,Personal Loan,Unsecured Loan,37500.0,1
+6,Bloor & Bay (Manulife Centre) ,Credit Card,Cash Advance,56500.0,2
+6,Bloor & Bay (Manulife Centre) ,Credit Card,Revolving Loan,500.0,1
+6,Bloor & Bay (Manulife Centre) ,Investment,ELI,38000.0,1
+6,Bloor & Bay (Manulife Centre) ,Investment,Security,4000.0,2
+6,Bloor & Bay (Manulife Centre) ,Investment,UT,58500.0,2
+6,Bloor & Bay (Manulife Centre) ,Personal Loan,Revolving Loan,500.0,1
+6,Bloor & Bay (Manulife Centre) ,Personal Loan,Unsecured Loan,34500.0,1
+7,Bloor & Church ,Credit Card,Cash Advance,66000.0,2
+7,Bloor & Church ,Credit Card,Revolving Loan,44000.0,1
+7,Bloor & Church ,Investment,ELI,27000.0,1
+7,Bloor & Church ,Investment,UT,57500.0,2
+7,Bloor & Church ,Personal Loan,Revolving Loan,44000.0,1
+7,Bloor & Church ,Personal Loan,Secured Loan,7000.0,1
+7,Bloor & Church ,Personal Loan,Unsecured Loan,35500.0,1
+8,Bloor & Euclid ,Credit Card,Balance Transfer,44000.0,2
+9,Bloor & Lansdowne ,Credit Card,Balance Transfer,34500.0,1
+9,Bloor & Lansdowne ,Credit Card,Card Installment Loan,29500.0,1
+9,Bloor & Lansdowne ,Investment,ELI,36500.0,1
+9,Bloor & Lansdowne ,Investment,Security,23500.0,1
+9,Bloor & Lansdowne ,Investment,UT,25000.0,1
+10,Bloor & Windermere ,Credit Card,Revolving Loan,124000.0,4
+10,Bloor & Windermere ,Investment,ELI,500.0,1
+10,Bloor & Windermere ,Investment,Security,11500.0,1
+10,Bloor & Windermere ,Investment,UT,48000.0,1
+10,Bloor & Windermere ,Personal Loan,Revolving Loan,124000.0,4
+10,Bloor & Windermere ,Personal Loan,Secured Loan,49500.0,1
+10,Bloor & Windermere ,Personal Loan,Unsecured Loan,44500.0,1
+11,Bridlewood Mall Branch ,Credit Card,Balance Transfer,29000.0,1
+11,Bridlewood Mall Branch ,Credit Card,Card Installment Loan,61500.0,2
+11,Bridlewood Mall Branch ,Credit Card,Revolving Loan,23500.0,3
+11,Bridlewood Mall Branch ,Investment,ELI,31000.0,1
+11,Bridlewood Mall Branch ,Investment,Security,18500.0,1
+11,Bridlewood Mall Branch ,Investment,UT,28000.0,1
+11,Bridlewood Mall Branch ,Personal Loan,Revolving Loan,23500.0,3
+12,Centerpoint Mall ,Credit Card,Card Installment Loan,29500.0,1
+12,Centerpoint Mall ,Credit Card,Revolving Loan,44500.0,2
+12,Centerpoint Mall ,Investment,ELI,8500.0,1
+12,Centerpoint Mall ,Investment,UT,44500.0,1
+12,Centerpoint Mall ,Personal Loan,Revolving Loan,44500.0,2
+12,Centerpoint Mall ,Personal Loan,Unsecured Loan,29500.0,1
+13,Church & Alexander ,Credit Card,Balance Transfer,13000.0,1
+13,Church & Alexander ,Credit Card,Revolving Loan,67000.0,2
+13,Church & Alexander ,Investment,ELI,90000.0,2
+13,Church & Alexander ,Personal Loan,Revolving Loan,67000.0,2
+13,Church & Alexander ,Personal Loan,Unsecured Loan,21500.0,1
+14,Cityplace ,Investment,Security,43000.0,1
+14,Cityplace ,Investment,UT,37000.0,1
+15,College & Manning ,Credit Card,Cash Advance,39000.0,1
+15,College & Manning ,Credit Card,Revolving Loan,61500.0,2
+15,College & Manning ,Investment,ELI,27000.0,1
+15,College & Manning ,Investment,Security,36500.0,1
+15,College & Manning ,Personal Loan,Revolving Loan,61500.0,2
+15,College & Manning ,Personal Loan,Secured Loan,29000.0,1
+16,Danforth & Ferrier ,Credit Card,Cash Advance,14000.0,1
+16,Danforth & Ferrier ,Credit Card,Revolving Loan,45500.0,1
+16,Danforth & Ferrier ,Personal Loan,Revolving Loan,45500.0,1
+16,Danforth & Ferrier ,Personal Loan,Unsecured Loan,66500.0,2
+17,Danforth & Woodbine ,Credit Card,Card Installment Loan,25000.0,1
+17,Danforth & Woodbine ,Personal Loan,Unsecured Loan,44000.0,1
+18,Dufferin Mall ,Credit Card,Revolving Loan,61500.0,3
+18,Dufferin Mall ,Investment,ELI,10000.0,2
+18,Dufferin Mall ,Investment,Security,40500.0,1
+18,Dufferin Mall ,Investment,UT,37500.0,1
+18,Dufferin Mall ,Personal Loan,Revolving Loan,61500.0,3
+18,Dufferin Mall ,Personal Loan,Secured Loan,24500.0,1
+19,Dundas & Keele ,Credit Card,Balance Transfer,30000.0,2
+19,Dundas & Keele ,Credit Card,Card Installment Loan,34500.0,1
+19,Dundas & Keele ,Credit Card,Cash Advance,31500.0,1
+19,Dundas & Keele ,Credit Card,Revolving Loan,1000.0,1
+19,Dundas & Keele ,Investment,ELI,54000.0,2
+19,Dundas & Keele ,Personal Loan,Revolving Loan,1000.0,1
+19,Dundas & Keele ,Personal Loan,Secured Loan,83000.0,2
+20,Dundas & Ossington ,Credit Card,Balance Transfer,3000.0,1
+20,Dundas & Ossington ,Credit Card,Cash Advance,58000.0,2
+20,Dundas & Ossington ,Credit Card,Revolving Loan,65500.0,2
+20,Dundas & Ossington ,Investment,UT,44000.0,2
+20,Dundas & Ossington ,Personal Loan,Revolving Loan,65500.0,2
+20,Dundas & Ossington ,Personal Loan,Secured Loan,42000.0,1
+21,Dundas & Spadina (New Chinatown) ,Credit Card,Revolving Loan,46500.0,1
+21,Dundas & Spadina (New Chinatown) ,Investment,ELI,10000.0,1
+21,Dundas & Spadina (New Chinatown) ,Personal Loan,Revolving Loan,46500.0,1
+21,Dundas & Spadina (New Chinatown) ,Personal Loan,Secured Loan,22500.0,1
+22,Dupont & Symington ,Credit Card,Cash Advance,43000.0,1
+23,East Liberty& Hanna ,Credit Card,Revolving Loan,4000.0,1
+23,East Liberty& Hanna ,Investment,UT,66500.0,2
+23,East Liberty& Hanna ,Personal Loan,Revolving Loan,4000.0,1
+24,East York Town Centre ,Credit Card,Card Installment Loan,29500.0,1
+24,East York Town Centre ,Investment,ELI,151500.0,4
+24,East York Town Centre ,Investment,UT,14000.0,1
+24,East York Town Centre ,Personal Loan,Secured Loan,10000.0,1
+24,East York Town Centre ,Personal Loan,Unsecured Loan,43000.0,1
+25,Eglinton & Elmsthorpe ,Personal Loan,Unsecured Loan,13500.0,1
+26,Fairbank ,Credit Card,Cash Advance,19500.0,1
+26,Fairbank ,Credit Card,Revolving Loan,3500.0,1
+26,Fairbank ,Investment,Security,27000.0,1
+26,Fairbank ,Personal Loan,Revolving Loan,3500.0,1
+26,Fairbank ,Personal Loan,Secured Loan,25500.0,1
+26,Fairbank ,Personal Loan,Unsecured Loan,54500.0,3
+27,First Canadian Place Branch - Main Floor ,Credit Card,Card Installment Loan,48000.0,2
+27,First Canadian Place Branch - Main Floor ,Credit Card,Revolving Loan,140000.0,5
+27,First Canadian Place Branch - Main Floor ,Investment,ELI,60000.0,2
+27,First Canadian Place Branch - Main Floor ,Investment,Security,20000.0,1
+27,First Canadian Place Branch - Main Floor ,Investment,UT,30000.0,1
+27,First Canadian Place Branch - Main Floor ,Personal Loan,Revolving Loan,140000.0,5
+27,First Canadian Place Branch - Main Floor ,Personal Loan,Secured Loan,29000.0,1
+27,First Canadian Place Branch - Main Floor ,Personal Loan,Unsecured Loan,28000.0,2
+28,Forest Hill Village ,Credit Card,Revolving Loan,3000.0,1
+28,Forest Hill Village ,Investment,Security,35000.0,1
+28,Forest Hill Village ,Investment,UT,29500.0,1
+28,Forest Hill Village ,Personal Loan,Revolving Loan,3000.0,1
+28,Forest Hill Village ,Personal Loan,Unsecured Loan,13500.0,1
+29,Front & Berkeley ,Credit Card,Balance Transfer,44000.0,2
+29,Front & Berkeley ,Investment,ELI,5500.0,1
+29,Front & Berkeley ,Investment,Security,21500.0,1
+30,King & Church ,Credit Card,Balance Transfer,5000.0,1
+30,King & Church ,Credit Card,Card Installment Loan,1000.0,1
+30,King & Church ,Credit Card,Revolving Loan,29000.0,1
+30,King & Church ,Investment,Security,33500.0,1
+30,King & Church ,Investment,UT,13000.0,1
+30,King & Church ,Personal Loan,Revolving Loan,29000.0,1
+31,King & University ,Credit Card,Card Installment Loan,9000.0,1
+31,King & University ,Investment,ELI,1000.0,1
+31,King & University ,Investment,UT,41500.0,1
+32,Laird & Commercial ,Credit Card,Revolving Loan,52000.0,2
+32,Laird & Commercial ,Investment,Security,5500.0,1
+32,Laird & Commercial ,Investment,UT,19000.0,1
+32,Laird & Commercial ,Personal Loan,Revolving Loan,52000.0,2
+33,Lawrence Allen Centre ,Credit Card,Cash Advance,8000.0,1
+33,Lawrence Allen Centre ,Credit Card,Revolving Loan,6000.0,1
+33,Lawrence Allen Centre ,Investment,Security,28000.0,1
+33,Lawrence Allen Centre ,Personal Loan,Revolving Loan,6000.0,1
+33,Lawrence Allen Centre ,Personal Loan,Secured Loan,5500.0,1
+33,Lawrence Allen Centre ,Personal Loan,Unsecured Loan,29500.0,1
+34,Leaside ,Credit Card,Revolving Loan,41500.0,2
+34,Leaside ,Investment,ELI,74000.0,2
+34,Leaside ,Personal Loan,Revolving Loan,41500.0,2
+35,Leslie & York Mills ,Investment,Security,34000.0,1
+35,Leslie & York Mills ,Investment,UT,32500.0,1
+36,McCowan Square ,Credit Card,Revolving Loan,33500.0,1
+36,McCowan Square ,Investment,Security,37500.0,1
+36,McCowan Square ,Personal Loan,Revolving Loan,33500.0,1
+37,Queen & Portland ,Credit Card,Revolving Loan,78000.0,2
+37,Queen & Portland ,Investment,ELI,48000.0,2
+37,Queen & Portland ,Investment,Security,39500.0,2
+37,Queen & Portland ,Personal Loan,Revolving Loan,78000.0,2
+37,Queen & Portland ,Personal Loan,Secured Loan,49000.0,1
+38,Queen & Saulter ,Credit Card,Balance Transfer,48000.0,1
+38,Queen & Saulter ,Credit Card,Revolving Loan,77000.0,2
+38,Queen & Saulter ,Investment,ELI,45000.0,1
+38,Queen & Saulter ,Investment,UT,34000.0,1
+38,Queen & Saulter ,Personal Loan,Revolving Loan,77000.0,2
+39,Queen & Yonge ,Credit Card,Balance Transfer,40500.0,1
+39,Queen & Yonge ,Credit Card,Card Installment Loan,30500.0,1
+39,Queen & Yonge ,Credit Card,Revolving Loan,35500.0,2
+39,Queen & Yonge ,Investment,Security,62000.0,2
+39,Queen & Yonge ,Investment,UT,18000.0,1
+39,Queen & Yonge ,Personal Loan,Revolving Loan,35500.0,2
+39,Queen & Yonge ,Personal Loan,Secured Loan,9000.0,1
+39,Queen & Yonge ,Personal Loan,Unsecured Loan,10500.0,1
+40,Rogers Road ,Credit Card,Balance Transfer,24500.0,1
+40,Rogers Road ,Credit Card,Cash Advance,7500.0,1
+40,Rogers Road ,Credit Card,Revolving Loan,62000.0,2
+40,Rogers Road ,Investment,UT,36000.0,1
+40,Rogers Road ,Personal Loan,Revolving Loan,62000.0,2
+41,Stackt Market Bathurst And Front ,Credit Card,Balance Transfer,17500.0,1
+41,Stackt Market Bathurst And Front ,Credit Card,Cash Advance,25000.0,1
+41,Stackt Market Bathurst And Front ,Credit Card,Revolving Loan,45500.0,1
+41,Stackt Market Bathurst And Front ,Investment,Security,27000.0,1
+41,Stackt Market Bathurst And Front ,Investment,UT,14500.0,1
+41,Stackt Market Bathurst And Front ,Personal Loan,Revolving Loan,45500.0,1
+43,Steeles & Markham ,Credit Card,Balance Transfer,92000.0,2
+43,Steeles & Markham ,Credit Card,Card Installment Loan,49500.0,2
+43,Steeles & Markham ,Credit Card,Revolving Loan,68000.0,2
+43,Steeles & Markham ,Personal Loan,Revolving Loan,68000.0,2
+43,Steeles & Markham ,Personal Loan,Unsecured Loan,2500.0,1
+44,The Beach ,Credit Card,Balance Transfer,37500.0,1
+44,The Beach ,Credit Card,Card Installment Loan,31500.0,1
+44,The Beach ,Credit Card,Revolving Loan,48000.0,1
+44,The Beach ,Investment,ELI,12000.0,1
+44,The Beach ,Investment,UT,21500.0,1
+44,The Beach ,Personal Loan,Revolving Loan,48000.0,1
+45,University & College ,Credit Card,Cash Advance,7500.0,1
+45,University & College ,Credit Card,Revolving Loan,19000.0,1
+45,University & College ,Personal Loan,Revolving Loan,19000.0,1
+46,University & Dundas ,Credit Card,Card Installment Loan,28000.0,1
+46,University & Dundas ,Investment,ELI,25500.0,2
+46,University & Dundas ,Investment,Security,18000.0,1
+46,University & Dundas ,Personal Loan,Unsecured Loan,44500.0,1
+47,Yonge & Fairlawn ,Credit Card,Card Installment Loan,49500.0,2
+47,Yonge & Fairlawn ,Credit Card,Cash Advance,35500.0,1
+47,Yonge & Fairlawn ,Personal Loan,Secured Loan,30500.0,1
+48,Yonge & Gerrard ,Investment,Security,28000.0,1
+49,Yonge & Roselawn ,Credit Card,Balance Transfer,17500.0,1
+49,Yonge & Roselawn ,Credit Card,Revolving Loan,89000.0,3
+49,Yonge & Roselawn ,Investment,ELI,41000.0,1
+49,Yonge & Roselawn ,Personal Loan,Revolving Loan,89000.0,3
+50,Yonge & St Clair ,Investment,ELI,30000.0,1
+50,Yonge & St Clair ,Investment,UT,15500.0,1
+50,Yonge & St Clair ,Personal Loan,Secured Loan,19000.0,1
+51,York University/York Lanes ,Credit Card,Balance Transfer,4500.0,1
+51,York University/York Lanes ,Credit Card,Cash Advance,22500.0,1
+51,York University/York Lanes ,Credit Card,Revolving Loan,26500.0,1
+51,York University/York Lanes ,Investment,UT,13000.0,1
+51,York University/York Lanes ,Personal Loan,Revolving Loan,26500.0,1
