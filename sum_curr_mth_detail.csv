@@ -119,13 +119,11 @@ Br_ID,Name,Cat,Prod,Total,Count
 26,Fairbank ,Personal Loan,Secured Loan,25500.0,1
 26,Fairbank ,Personal Loan,Unsecured Loan,54500.0,3
 27,First Canadian Place Branch - Main Floor ,Credit Card,Card Installment Loan,48000.0,2
-27,First Canadian Place Branch - Main Floor ,Credit Card,Revolving Loan,140000.0,5
+27,First Canadian Place Branch - Main Floor ,Credit Card,Revolving Loan,94500.0,4
 27,First Canadian Place Branch - Main Floor ,Investment,ELI,60000.0,2
 27,First Canadian Place Branch - Main Floor ,Investment,Security,20000.0,1
-27,First Canadian Place Branch - Main Floor ,Investment,UT,30000.0,1
-27,First Canadian Place Branch - Main Floor ,Personal Loan,Revolving Loan,140000.0,5
-27,First Canadian Place Branch - Main Floor ,Personal Loan,Secured Loan,29000.0,1
-27,First Canadian Place Branch - Main Floor ,Personal Loan,Unsecured Loan,28000.0,2
+27,First Canadian Place Branch - Main Floor ,Personal Loan,Revolving Loan,94500.0,4
+27,First Canadian Place Branch - Main Floor ,Personal Loan,Unsecured Loan,17500.0,1
 28,Forest Hill Village ,Credit Card,Revolving Loan,3000.0,1
 28,Forest Hill Village ,Investment,Security,35000.0,1
 28,Forest Hill Village ,Investment,UT,29500.0,1
@@ -190,6 +188,11 @@ Br_ID,Name,Cat,Prod,Total,Count
 41,Stackt Market Bathurst And Front ,Investment,Security,27000.0,1
 41,Stackt Market Bathurst And Front ,Investment,UT,14500.0,1
 41,Stackt Market Bathurst And Front ,Personal Loan,Revolving Loan,45500.0,1
+42,St.Clair & Runnymede ,Credit Card,Revolving Loan,45500.0,1
+42,St.Clair & Runnymede ,Investment,UT,30000.0,1
+42,St.Clair & Runnymede ,Personal Loan,Revolving Loan,45500.0,1
+42,St.Clair & Runnymede ,Personal Loan,Secured Loan,29000.0,1
+42,St.Clair & Runnymede ,Personal Loan,Unsecured Loan,10500.0,1
 43,Steeles & Markham ,Credit Card,Balance Transfer,92000.0,2
 43,Steeles & Markham ,Credit Card,Card Installment Loan,49500.0,2
 43,Steeles & Markham ,Credit Card,Revolving Loan,68000.0,2
