@@ -1,11 +1,11 @@
 ﻿Prod,Cat
-A,Category 1
-B,Category 1
-C,Category 1
-D,Category 1
-E,Category 2
-F,Category 2
-G,Category 2
-H,Category 3
-I,Category 3
-J,Category 3
+Cash Advance,Credit Card
+Balance Transfer,Credit Card
+Card Installment Loan,Credit Card
+Revolving Loan,Credit Card
+Unsecured Loan,Personal Loan
+Secured Loan,Personal Loan
+Revolving Loan,Personal Loan
+Security,Investment
+UT,Investment
+ELI,Investment
