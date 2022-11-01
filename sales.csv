@@ -662,7 +662,7 @@
 660,29,18,36500,Balance Transfer,8-Oct-19
 661,262,195,34000,Balance Transfer,14-Jul-19
 662,185,101,40500,Revolving Loan,14-Sep-20
-663,90,196,29000,Secured Loan,26-Sep-21
+663,90,139,29000,Secured Loan,26-Sep-21
 664,13,69,38000,Secured Loan,18-Nov-19
 665,247,74,15000,Balance Transfer,10-Jun-19
 666,193,225,28500,Revolving Loan,13-Nov-19
@@ -7173,7 +7173,7 @@
 7171,270,127,3000,Cash Advance,18-Feb-21
 7172,323,285,20000,Cash Advance,24-Dec-20
 7173,97,182,8500,Security,18-Apr-20
-7174,296,196,30000,UT,18-Sep-21
+7174,296,139,30000,UT,18-Sep-21
 7175,34,48,21500,Card Installment Loan,24-Jun-21
 7176,270,249,29000,Card Installment Loan,30-Mar-21
 7177,230,292,19000,ELI,7-Sep-20
@@ -8133,7 +8133,7 @@
 8131,226,116,39500,Revolving Loan,28-Mar-21
 8132,335,66,31500,Security,4-Jul-19
 8133,184,134,36000,UT,21-Apr-20
-8134,254,196,10500,Unsecured Loan,26-Sep-21
+8134,254,139,10500,Unsecured Loan,26-Sep-21
 8135,216,69,34500,Revolving Loan,31-May-21
 8136,355,68,27500,Secured Loan,9-Mar-20
 8137,7,227,41000,Secured Loan,30-Sep-19
@@ -9749,7 +9749,7 @@
 9747,394,212,18500,Card Installment Loan,27-Apr-20
 9748,50,188,24500,Cash Advance,6-Jan-20
 9749,82,81,48500,Card Installment Loan,23-Sep-20
-9750,63,196,45500,Revolving Loan,12-Sep-21
+9750,63,139,45500,Revolving Loan,12-Sep-21
 9751,377,231,32500,Security,30-Jun-19
 9752,282,17,10000,Revolving Loan,13-Dec-19
 9753,222,247,36500,ELI,12-Sep-21
